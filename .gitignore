@@ -1,0 +1,6 @@
+flake.lock
+.direnv/
+result
+result-*
+# 保留 monasm-dots 只作本地參考，不納入你的 repo
+monasm-dots/
