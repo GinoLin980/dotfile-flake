@@ -13,7 +13,7 @@
       share = true;
     };
 
-    initExtra = ''
+    initContent = ''
       # ── zinit bootstrap ────────────────────────────────────────────
       source ${pkgs.zinit}/share/zinit/zinit.zsh
 
